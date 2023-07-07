@@ -1,24 +1,21 @@
-<img src="https://avatars.githubusercontent.com/u/56885001?s=200&v=4" alt="logo" width="130" height="130" align="right"/>
 
-# **V2Board**
 
-- PHP7.3+
+# **V2Board version 1.7.4 việt hóa**
+
+- PHP7.4+
 - Composer
-- MySQL5.5+
+- MySQL5.7+
 - Redis
 - Laravel
 
-## Demo
-[Demo](https://demo.v2board.com)
+## Tài liệu
+[Hướng dẫn sử dụng](https://v2board.com)
 
-## Document
-[Click](https://v2board.com)
+## nhà tài trợ
+Nhờ giấy phép dự án mã nguồn mở được cung cấp bởi [Jetbrains](https://www.jetbrains.com/)
 
-## Sponsors
-Thanks to the open source project license provided by [Jetbrains](https://www.jetbrains.com/)
+## Cộng đồng
+🔔 Kênh Telegram: [@v2board](https://t.me/v2board)  
 
-## Community
-🔔Telegram Channel: [@v2board](https://t.me/v2board)  
-
-## How to Feedback
-Follow the template in the issue to submit your question correctly, and we will have someone follow up with you.
+## Phản hồi
+Phiên bản được dịch bởi: [Đậu Đậu](https://zalo.me/0983538806)  
