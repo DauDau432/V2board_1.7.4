@@ -44,19 +44,19 @@ class ClientController extends Controller
         $useTraffic = $user['u'] + $user['d'];
         $totalTraffic = $user['transfer_enable'];
         $remainingTraffic = Helper::trafficConvert($totalTraffic - $useTraffic);
-        $expiredDate = $user['expired_at'] ? date('Y-m-d', $user['expired_at']) : '长期有效';
+        $expiredDate = $user['expired_at'] ? date('Y-m-d', $user['expired_at']) : 'hiệu quả lâu dài';
         $userService = new UserService();
         $resetDay = $userService->getResetDay($user);
         array_unshift($servers, array_merge($servers[0], [
-            'name' => "套餐到期：{$expiredDate}",
+            'name' => "Gói hết hạn：{$expiredDate}",
         ]));
         if ($resetDay) {
             array_unshift($servers, array_merge($servers[0], [
-                'name' => "距离下次重置剩余：{$resetDay} 天",
+                'name' => "Thời gian còn lại cho đến lần đặt lại tiếp theo：{$resetDay} 天",
             ]));
         }
         array_unshift($servers, array_merge($servers[0], [
-            'name' => "剩余流量：{$remainingTraffic}",
+            'name' => "dung lượng còn lại：{$remainingTraffic}",
         ]));
     }
 }
