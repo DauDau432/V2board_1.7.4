@@ -17,6 +17,7 @@ window.settings.i18n['vi-VN'] = {
   '发放中': 'Đang Xác Nhận',
   '已发放': 'Hoàn Thành',
   '无效': 'Không Hợp Lệ',
+<<<<<<< HEAD
   '个人中心': 'Thông tin người dùng',
   '登出': 'Đăng Xuất',
   '搜索': 'Tìm Kiếm',
@@ -30,6 +31,21 @@ window.settings.i18n['vi-VN'] = {
   '用户': 'Người Dùng',
   '我的工单': 'Liên hệ hỗ trợ',
   '流量明细': 'Chi Tiết sử dụng',
+=======
+  '个人中心': 'Trung Tâm Kiểm Soát',
+  '登出': 'Đăng Xuất',
+  '搜索': 'Tìm Kiếm',
+  '仪表盘': 'Trang Chủ',
+  '订阅': 'Gói Dịch Vụ',
+  '我的订阅': 'Gói Dịch Vụ Của Tôi',
+  '购买订阅': 'Mua Gói Dịch Vụ',
+  '财务': 'Tài Chính',
+  '我的订单': 'Đơn Hàng Của Tôi',
+  '我的邀请': 'Lời Mời Của Tôi',
+  '用户': 'Người Dùng',
+  '我的工单': 'Liên Hệ Với Chúng Tôi',
+  '流量明细': 'Chi Tiết Dung Lượng',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '使用文档': 'Kiến Thức Cơ Bản',
   '绑定Telegram获取更多服务': 'Liên kết Telegram thêm dịch vụ',
   '点击这里进行绑定': 'Ấn vào để liên kết',
@@ -91,7 +107,11 @@ window.settings.i18n['vi-VN'] = {
   '配置订阅': 'Thiết lập gói',
   '折扣': 'Chiết khấu',
   '付款周期': 'Chu kỳ thanh toán',
+<<<<<<< HEAD
   '有优惠券？': 'Áp mã giảm giá?',
+=======
+  '有优惠券？': 'Có phiếu giảm giá?',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '验证': 'Xác minh',
   '订单总额': 'Tổng tiền đơn hàng',
   '下单': 'Đặt hàng',
@@ -127,7 +147,11 @@ window.settings.i18n['vi-VN'] = {
   '邮箱验证码': 'Mã xác minh mail',
   '发送': 'Gửi',
   '邀请码': 'Mã mời',
+<<<<<<< HEAD
   '邀请码(选填)': 'Mã mời (có thể bỏ trống)',
+=======
+  '邀请码(选填)': 'Mã mời(Điền)',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '注册': 'Đăng ký',
   '返回登入': 'Về đăng nhập',
   '我已阅读并同意 <a target="_blank" href="{url}">服务条款</a>': 'Tôi đã đọc và đồng ý <a target="_blank" href="{url}">điều khoản dịch vụ</a>',
@@ -135,17 +159,29 @@ window.settings.i18n['vi-VN'] = {
   '名称': 'Tên',
   '标签': 'Nhãn',
   '状态': 'Trạng thái',
+<<<<<<< HEAD
   '节点五分钟内节点在线情况': 'Trạng thái server online trong vòng 5 phút',
+=======
+  '节点五分钟内节点在线情况': 'Node trạng thái online trong vòng 5 phút',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '倍率': 'Bội số',
   '使用的流量将乘以倍率进行扣除': 'Dung lượng sử dụng nhân với bội số rồi khấu trừ',
   '更多操作': 'Thêm thao tác',
   '复制成功': 'Sao chép thành công',
   '复制链接': 'Sao chép đường dẫn',
+<<<<<<< HEAD
   '该订阅长期有效': 'Thời hạn vĩnh viễn',
   '已过期': 'Tài khoản hết hạn',
   '已用 {used} / 总计 {total}': 'Đã sử dụng {used} / Tổng dung lượng {total}',
   '重置订阅信息': 'Reset thông tin gói',
   '没有可用节点，如果您未订阅或已过期请': 'Chưa có server, bạn chưa mua gói hoặc đã hết hạn hãy mua',
+=======
+  '该订阅长期有效': 'Gói này có thời hạn dài',
+  '已过期': 'Tài khoản hết hạn',
+  '已用 {used} / 总计 {total}': 'Đã sử dụng {used} / Tổng dung lượng {total}',
+  '重置订阅信息': 'Reset thông tin gói',
+  '没有可用节点，如果您未订阅或已过期请': 'Chưa có node khả dụng, nếu bạn chưa mua gói hoặc đã hết hạn hãy',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '订阅': 'Gói Dịch Vụ',
   '确定重置当前已用流量？': 'Xác định việc sử dụng giao thông hiện tại?',
   '点击「确定」将会跳转到收银台，支付订单后系统将会清空您当月已使用流量。': 'Ấn 「OK」 sẽ chuyển đến trang thanh toán, sau khi thanh toán đơn hàng hệ thống sẽ xóa dung lượng đã dùng tháng này của bạn.',
@@ -154,7 +190,11 @@ window.settings.i18n['vi-VN'] = {
   '如果你的订阅地址或信息泄露可以进行此操作。重置后你的UUID及订阅将会变更，需要重新进行订阅。': 'Nếu địa chỉ hoặc thông tin gói dịch vụ của bạn bị tiết lộ có thể tiến hành thao tác này. Sau khi reset UUID sẽ thay đổi.',
   '重置成功': 'Reset thành công',
   '低': 'Thấp',
+<<<<<<< HEAD
   '中': 'trung bình',
+=======
+  '中': 'Vừa',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '高': 'Cao',
   '主题': 'Chủ Đề',
   '工单级别': 'Cấp độ',
@@ -165,8 +205,13 @@ window.settings.i18n['vi-VN'] = {
   '已回复': 'Đã trả lời',
   '查看': 'Xem',
   '关闭': 'Đóng',
+<<<<<<< HEAD
   '新的工单': 'Tạo đơn hỗ trợ',
   '新的工单': 'Tạo đơn hỗ trợ',
+=======
+  '新的工单': 'Việc mới',
+  '新的工单': 'Việc mới',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '确认': 'OK',
   '主题': 'Chủ Đề',
   '请输入工单主题': 'Hãy nhập chủ đề công việc',
@@ -182,7 +227,11 @@ window.settings.i18n['vi-VN'] = {
   '复制成功': 'Sao chép thành công',
   '复制订阅地址': 'Sao chép liên kết',
   '导入到': 'Nhập vào',
+<<<<<<< HEAD
   '一键订阅': 'Bấm vào để đồng bộ máy chủ',
+=======
+  '一键订阅': 'Nhấp chuột để đồng bộ máy chủ',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '复制订阅': 'Sao chép liên kết',
   '推广佣金划转至余额': 'Chuyển khoản hoa hồng giới thiệu đến số dư',
   '确认': 'OK',
@@ -211,12 +260,21 @@ window.settings.i18n['vi-VN'] = {
   '立即支付': 'Thanh toán ngay',
   '条工单正在处理中': ' công việc đang xử lý',
   '立即查看': 'Xem Ngay',
+<<<<<<< HEAD
   '使用文档': 'Hướng dẫn sử dụng',
   '我的订单': 'Đơn đặt Hàng',
   '流量明细': 'Chi tiết sử dụng',
   '配置订阅': 'Thiết lập gói',
   '我的邀请': 'Cộng tác viên',
   '节点状态': 'Hệ thống máy chủ',
+=======
+  '使用文档': 'Tài liệu sử dụng',
+  '我的订单': 'Đơn Hàng Của Tôi',
+  '流量明细': 'Chi Tiết Dung Lượng',
+  '配置订阅': 'Thiết lập gói',
+  '我的邀请': 'Lời Mời Của Tôi',
+  '节点状态': 'Trạng thái node',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '复制成功': 'Sao chép thành công',
   '商品信息': 'Thông tin',
   '产品名称': 'Tên sản phẩm',
@@ -229,12 +287,20 @@ window.settings.i18n['vi-VN'] = {
   '旧订阅折抵金额': 'Tiền giảm giá gói cũ',
   '退款金额': 'Số tiền hoàn lại',
   '余额支付': 'Thanh toán số dư',
+<<<<<<< HEAD
   '我的工单': 'Liên Hệ hỗ trợ',
+=======
+  '我的工单': 'Liên Hệ Với Chúng Tôi',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '工单历史': 'Lịch sử đơn hàng',
   '已用流量将在 {reset_day} 日后重置': 'Giao thông sẽ ở đó {reset_day} Đặt lại trong tương lai',
   '已用流量已在今日重置': 'Giao thông đã được đặt lại hôm nay',
   '重置已用流量': 'Đặt lại giao thông',
+<<<<<<< HEAD
   '查看节点状态': 'Xem trạng thái server',
+=======
+  '查看节点状态': 'Xem trạng thái nút',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '当前已使用流量达{rate}%': 'Giao thông hiện tại đã đạt đến{rate}%',
   '节点名称': 'Tên node',
   '于 {date} 到期，距离到期还有 {day} 天。': 'Hết hạn vào {date}, còn {day} ngày.',
@@ -242,7 +308,11 @@ window.settings.i18n['vi-VN'] = {
   '立即加入': 'Vào ngay',
   '该订阅无法续费，仅允许新用户购买': 'Đăng ký này không thể gia hạn, chỉ người dùng mới được phép mua',
   '重置当月流量': 'Đặt lại dung lượng tháng hiện tại',
+<<<<<<< HEAD
   '流量明细仅保留近月数据以供查询。': 'Chi tiết sử dụng chỉ lưu dữ liệu của những tháng gần đây để truy vấn.',
+=======
+  '流量明细仅保留近月数据以供查询。': 'Chi tiết dung lượng chỉ lưu dữ liệu của những tháng gần đây để truy vấn.',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '扣费倍率': 'Tỷ lệ khấu trừ',
   '支付手续费': 'Phí thủ tục',
   '续费订阅': 'Gia hạn đăng ký',
@@ -265,6 +335,7 @@ window.settings.i18n['vi-VN'] = {
   '选择最适合你的计划': 'Chọn kế hoạch phù hợp với bạn nhất',
   '全部': 'Tất cả',
   '按周期': 'Chu kỳ',
+<<<<<<< HEAD
   '遇到问题': 'Liên hệ hỗ trợ',
   '遇到问题可以通过工单与我们沟通': 'Nếu bạn gặp sự cố, bạn có thể liên lạc với chúng tôi thông qua ',
   '按流量': 'Vĩnh viễn',
@@ -273,5 +344,15 @@ window.settings.i18n['vi-VN'] = {
   '当前剩余佣金': 'Số dư hoa hồng hiện tại',
   '三级分销比例': 'Tỷ lệ phân phối ba góc',
   '累计获得佣金': 'số dư tích lũy',
+=======
+  '遇到问题': 'Chúng tôi có một vấn đề',
+  '遇到问题可以通过工单与我们沟通': 'Nếu bạn gặp sự cố, bạn có thể liên lạc với chúng tôi thông qua ',
+  '按流量': 'Chảy',
+  '搜索文档': 'Tài liệu tìm kiếm',
+  '技术支持': 'Hỗ trợ kỹ thuật',
+  '当前剩余佣金': 'Ủy ban thặng dư hiện tại',
+  '三级分销比例': 'Tỷ lệ phân phối ba góc',
+  '累计获得佣金': 'Ủy ban tích lũy',
+>>>>>>> c6d3d78cb8d707f2a22b02dcd4a6e96481d13424
   '您邀请的用户再次邀请用户将按照订单金额乘以分销等级的比例进行分成。': 'Người dùng bạn mời một lần nữa mời người dùng chia nó theo tỷ lệ của số tiền đặt hàng theo tỷ lệ của số tiền đặt hàng.'
 };
